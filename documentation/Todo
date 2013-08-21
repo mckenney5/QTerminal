@@ -1,0 +1,8 @@
+**************
+* To Do List *
+**************
+
+[ ]			Simple file commands like cd, ls, cp, mv
+[ ]			Being able to do multiple commands (ex echo foo && echo bar)
+[ ]			Add a run command to start a command
+[ ]			Create a script reader
