@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QTerminal/Help.vb">
+    <Files>
+      <File FileName="QTerminal/QTerm.vb" Line="141" Column="16" />
+      <File FileName="QTerminal/Help.vb" Line="11" Column="68" />
+      <File FileName="QTerminal/ErrHandler.vb" Line="13" Column="11" />
+      <File FileName="QTerminal/AssemblyInfo.vb" Line="8" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="QTerminal" expanded="True">
+            <Node name="Help.vb" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/shared/prog/VB/QTerminal/source/QTerminal/Help.vb" line="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
