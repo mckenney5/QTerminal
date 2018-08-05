@@ -1,3 +1,6 @@
+# !-- UNSAFE, DEPRECATED, ARCHIVE ONLY --!
+See issue 1: https://github.com/mckenney5/QTerminal/issues/1
+
 QTerminal
 =========
 
